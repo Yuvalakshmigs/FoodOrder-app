@@ -19,8 +19,11 @@
   },
   "homepage": "https://github.com/Yuvalakshmigs/FoodOrder-app#readme",
   "devDependencies": {
+    "autoprefixer": "^9.8.8",
     "parcel": "^2.11.0",
-    "parcel-bundler": "^1.12.5"
+    "parcel-bundler": "^1.12.5",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   },
   "dependencies": {
     "@parcel/transformer-js": "^2.11.0",
